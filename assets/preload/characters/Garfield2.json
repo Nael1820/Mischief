@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GarfieldIDLE"
+		},
+		{
+			"offsets": [
+				10,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GarfieldDOWN"
+		},
+		{
+			"offsets": [
+				8,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GarfieldLEFT"
+		},
+		{
+			"offsets": [
+				11,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GarfieldRIGHT"
+		},
+		{
+			"offsets": [
+				10,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GarfieldUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GARFIELD",
+	"position": [
+		-30,
+		310
+	],
+	"healthicon": "GARicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		173,
+		23
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
